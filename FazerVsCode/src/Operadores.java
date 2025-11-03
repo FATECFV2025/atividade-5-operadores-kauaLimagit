@@ -42,7 +42,7 @@ public class Operadores {
         return !(v1 > v2);
     }
 
-    // Comparação
+    // COMPARAÇÃO
 
     public boolean igualA(float v1, float v2) {
         return v1 == v2;
